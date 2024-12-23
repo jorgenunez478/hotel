@@ -1,4 +1,3 @@
-# filepath: /c:/laragon/www/hotel-backend/Dockerfile
 # Usar una imagen base oficial de PHP con Apache
 FROM php:8.1-apache
 
